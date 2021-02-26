@@ -1,0 +1,9 @@
+[package]
+name = "descending-order"
+version = "0.1.0"
+authors = ["kenesparta <ken@landgorilla.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
