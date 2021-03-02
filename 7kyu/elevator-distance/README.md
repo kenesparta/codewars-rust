@@ -1,9 +1,5 @@
-# Descending Order
+# Elevator Distance
 
-Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+Imagine you start on the 5th floor of a building, then travel down to the 2nd floor, then back up to the 8th floor. You have travelled a total of 3 + 6 = 9 floors of distance.
 
-Input:`42145` Output: `54421`
-
-Input: `145263` Output: `654321`
-
-Input: `123456789` Output: `987654321`
+Given an array representing a series of floors you must reach by elevator, return an integer representing the total distance travelled for visiting each floor in the array in order.
